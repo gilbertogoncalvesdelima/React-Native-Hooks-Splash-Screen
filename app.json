@@ -5,7 +5,9 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "splash_screen",
+    "githubUrl": "https://github.com/gilbertoreact/splash_screen_react_native"
   },
   "name": "splash_screen"
 }
